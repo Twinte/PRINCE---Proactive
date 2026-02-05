@@ -1,4 +1,4 @@
-# Federated Learning Experiments: Client Selection Methods
+# PRINCE - Proactive Reliability-driven INtelligent Client sElection
 
 This framework implements and compares different client selection methods for Vehicular Federated Learning.
 
@@ -119,12 +119,6 @@ matplotlib (optional, for plotting)
 ```
 
 ## Citation
-
-If using this code, please cite:
-
-- FLIPS: Pacheco et al. (2024)
-- ECS-HDSR: Sousa et al. (2025)
-- Proactive V6: Based on Amanda's SBRC 2026 submission
 
 ## References
 
