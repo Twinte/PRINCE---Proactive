@@ -125,3 +125,6 @@ matplotlib (optional, for plotting)
 1. Pacheco, L., et al. "FLIPS: Federated Learning with Importance-driven Pruning and Selection"
 2. Sousa, J., et al. "Enhancing robustness in federated learning using minimal repair and dynamic adaptation" - Annals of Telecommunications (2025)
 3. Amanda et al. "Proactive Client Selection for Vehicular Federated Learning" - SBRC 2026
+
+## License
+This project is licensed under the MIT License.
