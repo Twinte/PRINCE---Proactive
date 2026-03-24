@@ -498,5 +498,13 @@ SOFTWARE.
 ## References
 
 1. Pacheco, L., et al. "FLIPS: Federated Learning with Importance-driven Pruning and Selection"
+<<<<<<< HEAD
 2. Sousa, J., et al. "Enhancing robustness in federated learning using minimal repair and dynamic adaptation" - *Annals of Telecommunications* (2025)
 3. Authors. "Proactive Client Selection for Vehicular Federated Learning" - *SBRC 2026*
+=======
+2. Sousa, J., et al. "Enhancing robustness in federated learning using minimal repair and dynamic adaptation" - Annals of Telecommunications (2025)
+3. Amanda et al. "Proactive Client Selection for Vehicular Federated Learning" - SBRC 2026
+
+## License
+This project is licensed under the MIT License.
+>>>>>>> 94023b34d8393e6ad7ce38b9a308691b94a0476b
