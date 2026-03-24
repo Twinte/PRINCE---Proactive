@@ -82,7 +82,7 @@ The seals considered for evaluation are: **Available and Functional**. The artif
 
 ## Dataset and Benchmarks
 
-- **MNIST Dataset**: Automatically downloaded from torchvision (≈ 50 MB)
+- **GTSRB Dataset**: Automatically downloaded from torchvision (≈ 50 MB)
 - **Data Distribution**: Non-IID simulation using Dirichlet distribution (configurable)
 
 ## Third-Party Resources
