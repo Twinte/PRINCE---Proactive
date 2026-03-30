@@ -4,9 +4,8 @@
 
 This artifact implements **PRINCE (Proactive Reliability-driven INtelligent Client sElection)**, a framework for intelligent client selection in Federated Learning (FL) systems with vehicular networks. PRINCE integrates stochastic mobility modeling directly into the FL decision-making loop, synergizing Shannon Entropy to quantify the informational value of local data with a probabilistic mobility model to proactively filter unstable nodes before client selection. The framework demonstrates how predictive mobility modeling can improve convergence speed and robustness in dynamic vehicular environments.
 
-```
-Federated Learning (FL) enables cooperative training among Connected and Autonomous Vehicles (CAVs) while preserving data privacy. However, the volatility of vehicular environments, characterized by frequent link interruptions and high mobility, poses a significant obstacle to system robustness, often leading to client failures (e.g., connection, resource, aborts) that degrade global model performance. In this paper, we introduce PRINCE (Proactive Reliability-driven INtelligent Client sElection), a framework that integrates stochastic mobility modeling directly into the FL decision-making loop. In its operation, PRINCE synergizes Shannon Entropy to quantify the informational value of local data with a probabilistic mobility model to proactively filter unstable nodes before selection. Evaluation results demonstrate that PRINCE achieves a final accuracy of 83.90\% and a training success rate of 61.32%. Crucially, our approach outperforms state-of-the-art reactive baselines, delivering gains of up to 9.22% in accuracy and a 3.5x improvement in resource efficiency.
-```
+## Abstract
+Federated Learning (FL) enables cooperative training among Connected and Autonomous Vehicles (CAVs) while preserving data privacy. However, the volatility of vehicular environments, characterized by frequent link interruptions and high mobility, poses a significant obstacle to system robustness...
 
 ---
 
