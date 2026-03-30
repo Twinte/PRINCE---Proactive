@@ -144,10 +144,8 @@ conda activate prince-env
 ## Step 3: Install Dependencies
 
 ```bash
-# Upgrade pip
 pip install --upgrade pip setuptools wheel
 
-# Install required packages
 pip install torch torchvision numpy scikit-learn matplotlib
 
 # For CUDA support (optional, if GPU available):
@@ -196,7 +194,6 @@ The script will produce:
 ### Verification Steps
 
 ```bash
-# Verify the result file was created
 ls -la results/proactive_v6_results.json
 
 # Check JSON structure
