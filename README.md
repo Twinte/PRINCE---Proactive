@@ -41,8 +41,13 @@ fl_experiment/
 
 # Considered Seals
 
-The seals considered for evaluation are: **Available and Functional**. The artifact provides a complete, executable implementation with clear reproduction instructions, comprehensive configuration options, and automated result generation capabilities.
+The authors consider the following labels to be part of the evaluation process:
 
+Available Artifacts (Label D)
+Functional Artifacts (Label F)
+Sustainable Artifacts (Label S)
+Reproducible Experiments (Label R)
+Based on the code and documentation made available in this repository and related repositories.
 ---
 
 # Basic Information
