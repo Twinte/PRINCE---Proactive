@@ -43,10 +43,10 @@ fl_experiment/
 
 The authors consider the following labels to be part of the evaluation process:
 
-Available Artifacts (Label D)
-Functional Artifacts (Label F)
-Sustainable Artifacts (Label S)
-Reproducible Experiments (Label R)
+- Available Artifacts (Label D)
+- Functional Artifacts (Label F)
+- Sustainable Artifacts (Label S)
+- Reproducible Experiments (Label R)
 Based on the code and documentation made available in this repository and related repositories.
 
 ---
