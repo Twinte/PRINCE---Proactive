@@ -136,15 +136,9 @@ cd fl_experiment
 ## Step 2: Create a Virtual Environment
 
 ```bash
-# Using Python's built-in venv
-python3 -m venv venv
+conda create -n prince-env python=3.10 -y
 
-# Activate the virtual environment
-# On Linux/macOS:
-source venv/bin/activate
-
-# On Windows:
-venv\Scripts\activate
+conda activate prince-env
 ```
 
 ## Step 3: Install Dependencies
